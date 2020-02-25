@@ -5,6 +5,10 @@
 This is a repository containing some data and links for my Beer-Talk about Bluetooth Low Energy (BLE).
 See https://www.compass-security.com/de/agenda/detail/beer-talk-in-bern-bluetooth-low-energy-protocol-security-attacks/ for more infos about this event.
 
+## Slides
+
+The slides will be available after the last Beer-Talk (12.03.2020).
+
 ## References
 
 ### Specifications
