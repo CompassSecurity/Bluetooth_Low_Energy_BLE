@@ -9,6 +9,10 @@ See https://www.compass-security.com/de/agenda/detail/beer-talk-in-bern-bluetoot
 
 The slides will be available after the last Beer-Talk (12.03.2020).
 
+## Example PCAPs
+
+See [pcaps](./pcaps) directory for example PCAPs.
+
 ## References
 
 ### Specifications
