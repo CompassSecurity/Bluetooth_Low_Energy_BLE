@@ -1,5 +1,7 @@
 # Bluetooth Low Energy BLE Beertalk
 
+![Logo](logo.png)
+
 ## What is this?
 
 This is a repository containing some data and links for my Beer-Talk about Bluetooth Low Energy (BLE).
