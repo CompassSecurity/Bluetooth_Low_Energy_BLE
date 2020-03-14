@@ -9,15 +9,23 @@ See https://www.compass-security.com/de/agenda/detail/beer-talk-in-bern-bluetoot
 
 ## Slides
 
-The slides will be available after the last Beer-Talk (12.03.2020).
+The slides will be available after the last Beer-Talk (07.05.2020).
 
 ## Demo Videos
 
-The demo videos will be available after the last Beer-Talk (12.03.2020).
+The demo videos will be available after the last Beer-Talk (07.05.2020).
 
 ## Example PCAPs
 
 See [pcaps](./pcaps) directory for example PCAPs.
+
+## Hardware / Software References
+
+- Ubertooth
+  - Product Page: http://ubertooth.sourceforge.net/
+  - GitHub: https://github.com/greatscottgadgets/ubertooth/
+- Bluefruite LE Sniffer
+  - Product Page: https://www.adafruit.com/product/2269
 
 ## References
 
