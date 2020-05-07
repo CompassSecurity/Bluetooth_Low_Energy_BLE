@@ -11,9 +11,9 @@ See https://www.compass-security.com/de/agenda/detail/beer-talk-in-bern-bluetoot
 
 The slides will be available after the last Beer-Talk (07.05.2020).
 
-## Demo Videos
+## Videos
 
-The demo videos will be available after the last Beer-Talk (07.05.2020).
+The videos and the talk recording will be available after the last Beer-Talk (07.05.2020).
 
 ## Example PCAPs
 
@@ -22,10 +22,13 @@ See [pcaps](./pcaps) directory for example PCAPs.
 ## Hardware / Software References
 
 - Ubertooth
-  - Product Page: http://ubertooth.sourceforge.net/
+  - Project Page: http://ubertooth.sourceforge.net/
   - GitHub: https://github.com/greatscottgadgets/ubertooth/
 - Bluefruite LE Sniffer
   - Product Page: https://www.adafruit.com/product/2269
+- Micro:Bit
+  - Product Page: https://microbit.org/
+  - BtleJack Software Project Page: https://github.com/virtualabs/btlejack
 
 ## References
 
@@ -43,6 +46,7 @@ See [pcaps](./pcaps) directory for example PCAPs.
 * Introduction to Bluetooth Low Energy: https://learn.adafruit.com/introduction-to-bluetooth-low-energy/introduction
 * Reverse Engineering a Bluetooth Low Energy Light Bulb: https://learn.adafruit.com/reverse-engineering-a-bluetooth-low-energy-light-bulb/explore-gatt
 * Introducing the Adafruit Bluefruit LE Sniffer: https://learn.adafruit.com/introducing-the-adafruit-bluefruit-le-sniffer/introduction
+* Bluetooth Range Information: https://blog.nordicsemi.com/getconnected/things-you-should-know-about-bluetooth-range
 * Getting Started with Bluetooth Low Energy. O'Reilly. 2014. ISBN: 9781491900550.
 
 ### BLE Pairing
@@ -52,6 +56,20 @@ See [pcaps](./pcaps) directory for example PCAPs.
 * Bluetooth Pairing Part 2: Key Generation Methods: https://www.bluetooth.com/blog/bluetooth-pairing-part-2-key-generation-methods
 * Bluetooth Pairing Part 3: Low Energy Legacy Pairing Passkey Entry: https://www.bluetooth.com/blog/bluetooth-pairing-passkey-entry
 * Bluetooth Pairing Part 4: Bluetooth Low Energy Secure Connections - Numeric Comparison: https://www.bluetooth.com/blog/bluetooth-pairing-part-4/
+
+### BLE Privacy
+
+* Bluetooth Technology Protecting Your Privacy: https://www.bluetooth.com/blog/bluetooth-technology-protecting-your-privacy/
+
+### COVID19
+
+* Corona-App: Apple und Google wollen Regierungswünschen nachkommen: https://www.heise.de/newsticker/meldung/Corona-App-Apple-und-Google-wollen-Regierungswuenschen-nachkommen-4709428.html
+* Die Schweizer Corona-Warn-App kommt – das sind die wichtigsten Fakten: https://www.netzwoche.ch/news/2020-05-04/die-schweizer-corona-warn-app-kommt-das-sind-die-wichtigsten-fakten
+* Decentralized Privacy-Preserving Proximity Tracing: https://github.com/DP-3T/documents/
+* Contact Tracing App DP3T - These are the Risks of the Swiss Solution. Marc Ruef: https://www.scip.ch/en/?labs.20200427
+* DP3t: Privacy and Security Attacks on Digital Proximity Tracing Systems:
+  https://github.com/DP-3T/documents/blob/master/Security%20analysis/Privacy%20and%20Security%20Attacks%20on%20Digital%20Proximity%20Tracing%20Systems.pdf
+* Privacy-Preserving Contact Tracing. Apple & Google: https://www.apple.com/covid19/contacttracing/
 
 ### BLE Security Research
 
@@ -89,3 +107,5 @@ See [pcaps](./pcaps) directory for example PCAPs.
 * Damien Cauquil. Defeating BLE 5 PRNG for Fun and Jamming. DEF CON 27. 2019
   * Video: https://www.youtube.com/watch?v=wkIdpK7mAk4
   * Slides: https://media.defcon.org/DEF%20CON%2027/DEF%20CON%2027%20presentations/DEFCON-27-Damien-Cauquil-Defeating-Bluetooth-Low-Energy-5-PRNG-for-fun-and-jamming.PDF
+* Jan Ruge. No PoC? No Fix! - A sad Story about Bluetooth Security. DiVOC. 2020.
+  * Video: https://media.ccc.de/v/DiVOC-7-no_poc_no_fix_a_sad_story_about_bluetooth_security
