@@ -9,7 +9,8 @@ See https://www.compass-security.com/de/agenda/detail/beer-talk-in-bern-bluetoot
 
 ## Slides
 
-The slides will be available after the last Beer-Talk (07.05.2020).
+See [slides](./slides) directory for the slides. The full version contains
+slides not used during the presentation.
 
 ## Videos
 
