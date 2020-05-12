@@ -14,7 +14,16 @@ See https://www.compass-security.com/de/agenda/detail/beer-talk-in-bern-bluetoot
 
 ## Videos
 
-The videos and the talk recording will be available after the last Beer-Talk (07.05.2020).
+## Presentation
+
+- Compass Beer-Talk (07.05.2020, German): https://www.youtube.com/watch?v=hmhj3HyO48U
+
+## Demo Videos
+
+- BLE Hacking Demo: 1 - Sniffing a new Connection: https://www.youtube.com/watch?v=NVzCURC9380
+- BLE Hacking Demo: 2 - Sniffing an Existing Connection: https://www.youtube.com/watch?v=SKYK8nkj2Kw
+- BLE Hacking Demo: 3 - Device Interaction: https://www.youtube.com/watch?v=u3EzQXImME0
+- BLE Hacking Demo: 4 - Connection Hijacking: https://www.youtube.com/watch?v=a-2PtDKXHTs
 
 ## Example PCAPs
 
