@@ -14,11 +14,11 @@ See https://www.compass-security.com/de/agenda/detail/beer-talk-in-bern-bluetoot
 
 ## Videos
 
-## Presentation
+### Presentation
 
 - Compass Beer-Talk (07.05.2020, German): https://www.youtube.com/watch?v=hmhj3HyO48U
 
-## Demo Videos
+### Demo Videos
 
 - BLE Hacking Demo: 1 - Sniffing a new Connection: https://www.youtube.com/watch?v=NVzCURC9380
 - BLE Hacking Demo: 2 - Sniffing an Existing Connection: https://www.youtube.com/watch?v=SKYK8nkj2Kw
