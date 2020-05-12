@@ -9,8 +9,8 @@ See https://www.compass-security.com/de/agenda/detail/beer-talk-in-bern-bluetoot
 
 ## Slides
 
-See [slides](./slides) directory for the slides. The full version contains
-slides not used during the presentation.
+* Compass Beer-Talk: [bluetooth_low_energy_ble_beertalk_2020-05-07_hidden.pdf](./slides/bluetooth_low_energy_ble_beertalk_2020-05-07_hidden.pdf)
+* Full Version: [bluetooth_low_energy_ble_beertalk_2020-05-07_full.pdf](./slides/bluetooth_low_energy_ble_beertalk_2020-05-07_full.pdf)
 
 ## Videos
 
