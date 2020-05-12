@@ -31,14 +31,8 @@ See [pcaps](./pcaps) directory for example PCAPs.
 
 ## Hardware / Software References
 
-- Ubertooth
-  - Project Page: http://ubertooth.sourceforge.net/
-  - GitHub: https://github.com/greatscottgadgets/ubertooth/
-- Bluefruite LE Sniffer
-  - Product Page: https://www.adafruit.com/product/2269
-- Micro:Bit
-  - Product Page: https://microbit.org/
-  - BtleJack Software Project Page: https://github.com/virtualabs/btlejack
+- Micro:Bit Sniffing Hardware: https://microbit.org/
+- BtleJack Sniffing Software: https://github.com/virtualabs/btlejack
 
 ## References
 
