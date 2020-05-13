@@ -9,8 +9,8 @@ See https://www.compass-security.com/de/agenda/detail/beer-talk-in-bern-bluetoot
 
 ## Slides
 
-* Compass Beer-Talk: [bluetooth_low_energy_ble_beertalk_2020-05-07.pdf](./slides/bluetooth_low_energy_ble_beertalk_2020-05-07.pdf)
-* Full Version: [bluetooth_low_energy_ble_protocol_security_attacks_full_version_v1.0.pdf](./slides/bluetooth_low_energy_ble_protocol_security_attacks_full_version_v1.0.pdf)
+* Compass Beer-Talk: [bluetooth_low_energy_ble_beertalk_2020-05-07.pdf](https://github.com/CompassSecurity/Bluetooth_Low_Energy_BLE/raw/master/slides/bluetooth_low_energy_ble_beertalk_2020-05-07.pdf)
+* Full Version: [bluetooth_low_energy_ble_protocol_security_attacks_full_version_v1.0.pdf](https://github.com/CompassSecurity/Bluetooth_Low_Energy_BLE/raw/master/slides/bluetooth_low_energy_ble_protocol_security_attacks_full_version_v1.0.pdf)
 
 ## Videos
 
