@@ -1,3 +1,6 @@
+> [!WARNING]
+> This repository is no longer actively maintained and has been archived for reference purposes only.
+
 # Bluetooth Low Energy BLE Beertalk
 
 ![Logo](logo.png)
